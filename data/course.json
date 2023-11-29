@@ -1,0 +1,30 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test"
+  },
+  "course_title": "Computer Programming",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test"
+  },
+  "learning_resource_types": [],
+  "site_uid": "b692123c-3fc5-4c94-82c6-d25a656036b0",
+  "site_short_id": "test"
+}
